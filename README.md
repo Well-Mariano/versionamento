@@ -1,0 +1,2 @@
+# versionamento
+solução de conflitos
